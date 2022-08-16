@@ -17,7 +17,7 @@ Currently I'm working on aerial image analysis using the Python geospatial ecosy
 <br>
 
 <h4>Would love to learn more about:</h4>
-💬 Applications of topological data analysis to environmental sciences! My background is in geometry and topology. So if you know of any cool applications or are working on such a project, let me know!
+💬 Applications of topological data analysis to environmental sciences! My mathematics background is in geometry and topology. So if you know of any cool applications or are working on such a project, let me know!
 
 
 <br>
