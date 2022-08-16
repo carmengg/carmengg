@@ -1,5 +1,5 @@
-### Hi! I'm Carmen Galaz García 
-## Data Scientist @ National Center for Ecological Analysis & Synthesis ([NCEAS](https://www.nceas.ucsb.edu))
+<h1 align="center">Hi! I'm Carmen Galaz García </h1>
+<h3 align="center">Data Scientist @ National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu))</h3>
 
 
 😄 Pronouns: she/ella
@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 
 🤓 Education
-2021: Ph.D. in Mathematics - UC Santa Barbara
-2015: B.Sc. in Mathematics - Universidad de Guanajuato, México / Centro de Invetigación en Matemáticas (CIMAT)
+
+- 2021: Ph.D. in Mathematics - University of California, Santa Barbara
+
+- 2015: B.Sc. in Mathematics - Universidad de Guanajuato, México / Centro de Invetigación en Matemáticas (CIMAT)
