@@ -12,7 +12,7 @@
 🌎 Developing reproducible analytical workflows and end-to-end machine learning pipelines to evaluate ecosystem health.
 Currently I'm working on aerial image analysis using the Python geospatial ecosystem and <a href=https://planetarycomputer.microsoft.com> Microsoft's Planetary Computer</a>.
 
-🤓 Contributing to tutorials for scalable and computationally reproducible approaches to geospatial analysis.
+🤓 Contributing to tutorials for scalable and computationally reproducible approaches to environmental data analysis.
 
 <br>
 
@@ -21,6 +21,7 @@ Currently I'm working on aerial image analysis using the Python geospatial ecosy
 
 
 <br>
+
 <h4>Education</h4>
 
 - 2021: Ph.D. in Mathematics - University of California, Santa Barbara
