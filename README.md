@@ -2,7 +2,9 @@
 <h3 align="center">Data Scientist @ National Center for Ecological Analysis and Synthesis (<a href=https://www.nceas.ucsb.edu)>NCEAS</a>)</h3>
 
 
-😄 Pronouns: she/ella
+🍃 <b>Pronouns:</b> she/ella
+
+📫 <b>e-mail:</b> galaz-garcia@nceas.ucsb.edu
 <!--
 
 Here are some ideas to get you started:
@@ -17,9 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
+<!-- 🤓 <b>What am I up to?</b> -->
 
-🤓 Education
+<br>
+
+<!-- 👯 <b>I’m looking to collaborate on: </b> -->
+
+<br>
+<h4>Education</h4>
 
 - 2021: Ph.D. in Mathematics - University of California, Santa Barbara
 
