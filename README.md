@@ -6,6 +6,8 @@
 
 📫 <b>e-mail:</b> galaz-garcia@nceas.ucsb.edu
 
+
+
 <br>
 <h4>What I'm up to  in GitHub: </h4>
 
@@ -28,6 +30,9 @@ Currently I'm working on aerial image analysis using the Python geospatial ecosy
 
 - 2015: B.Sc. in Mathematics - Universidad de Guanajuato, México / Centro de Invetigación en Matemáticas (CIMAT)
 
+<br>
+
+✨  <b>First name:</b> Carmen, <b> Surnames: </b> Galaz García <a href= https://www.science.org/content/article/two-surnames-no-hyphen-claiming-my-identity-latin-american-scientist>(two?)</a>
 
 <!--
 Here are some ideas to get you started:
