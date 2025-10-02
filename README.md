@@ -14,7 +14,7 @@
 
 🤓 Developing lessons for my classes at the <a href="https://bren.ucsb.edu/masters-programs/master-environmental-data-science" target="_blank">Bren School's Master for Environmental Data Science</a>. For example, you can learn how to wrangle widely used environmental data formats using Python in the <a href="https://meds-eds-220.github.io/MEDS-eds-220-course/book/preface.html" target="_blank"> notes for my Working with Environmental Datasets course</a>.
 
-🌎 Contributing to environmental assessments of <a href="https://www.nceas.ucsb.edu/news/mapping-invader" target="_blank">invasive species in California</a> using remotely sensed data with folks at NCEAS!
+🌎 Contributing to environmental assessments of <a href="https://www.nceas.ucsb.edu/news/mapping-invader" target="_blank">invasive species in California</a> using remotely sensed data with folks at NCEAS.
 
 <br>
 
@@ -22,7 +22,7 @@
 
 🍎 How to create more equitable, diverse, and inclusive STEM classroom environments where everyone can have an empowering and collaborative learning experience. Got some actionable, concrete ideas you've implemnted to do this? Let me know!
 
-💬 Applications of topological data analysis to environmental sciences! My mathematics background is in geometry and topology. So if you know of any cool applications or are working on such a project, let me know!
+💬 Applications of topology to environmental sciences. My mathematics background is in geometry and topology (geometric group theory, more specifically). So if you know of any cool applications or are working on such a project, let me know. 
 
 
 <br>
